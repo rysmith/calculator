@@ -1,0 +1,44 @@
+#calculator {
+	overflow: auto;
+	width: 20%;
+	margin: 0 auto;
+
+}
+
+.button {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	display: inline-block;
+	margin-bottom: 2px;
+
+}
+
+.button:hover {
+	color: #e95d3c;
+	background: #5d3ce9;
+	border: 1px solid #e95d3c;
+}
+
+.top {
+	margin-left: 56px;
+}
+
+.row {
+
+}
+
+#display {
+	border: 1px solid black;
+	width:218px;
+	height: 30px;
+	margin-bottom: 2px;
+}
+
+#input p {
+	float: right;
+}
+
+.bottom {
+	margin-left: 56px;
+}
